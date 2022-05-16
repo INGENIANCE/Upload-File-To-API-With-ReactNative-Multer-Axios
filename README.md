@@ -39,11 +39,11 @@ Remplacez le contenu du fichier `App.tsx` à la racine du projet nouvellement cr
 ```bash
 npm i
 ```
-Reste plus qu'à vérifier votre environnement de développement en vous assurant qu'une émulateur Android est exécuté avant de taper la commande `npm start` qui va lancer une instance de **Metro**, le connecteur entre votre application et l'émulateur. Une fois **Metro** lancé, vous pouvez exécuter la commande suivante :
+Reste plus qu'à vérifier votre environnement de développement en vous assurant qu'un émulateur Android est exécuté avant de taper la commande `npm start` qui va lancer une instance de **Metro**, le connecteur entre votre application et l'émulateur. Une fois **Metro** lancé, vous pouvez exécuter la commande suivante :
 ```bash
 npm run android
 ```
-L'initialisation prendra un peu de temps, mais vous n'aurez plus à le refaire temps que vous laisserez votre application trouner. Metro s'assure d'une relance à chaud des modifications que vous effectuez dans votre code.
+L'initialisation prendra un peu de temps, mais vous n'aurez plus à le refaire temps que vous laisserez votre application tourner. Metro s'assure d'une relance à chaud des modifications que vous effecturez dans votre code.
 
 ## Vérifier les permissions
 
